@@ -1,0 +1,6 @@
+1. Pr0blem : what digital financial fraud is, exploring its different types, and 
+2. Solution - examining how data science is utilized to detect such fraud :data science analytics to monitor credit card usage and identify fraudulent activities
+3. we move to data exploration, processing, and cleaning. Here, we load the dataset into a pandas
+4.check for missing values, and handle them appropriately. We also explore and visualize the data to identify any outliers or anomalies. If the dataset is imbalanced, we balance it by either undersampling the majority class or oversampling the minority class. 
+5. In the final step, we focus on feature selection and engineering, where we identify and retain only the most relevant features for our model, normalize numerical features, and engineer new features, such as time-based attributes, to enhance model performance. 
+This meticulous preparation lays a strong foundation for the subsequent phases of model building and evaluation.
